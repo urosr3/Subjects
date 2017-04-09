@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationApplication", "AuthenticationApplication\AuthenticationApplication.csproj", "{1C5E066D-5015-4D84-9B19-6F4FD6EE7656}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subjects", "Subjects\Subjects.csproj", "{1C5E066D-5015-4D84-9B19-6F4FD6EE7656}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
