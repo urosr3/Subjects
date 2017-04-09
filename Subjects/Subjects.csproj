@@ -169,17 +169,17 @@
     <Compile Include="Controllers\AuthenticationController.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\SubjectController.cs" />
-    <Compile Include="Infrastructure\Classes\StringCrypt.cs" />
-    <Compile Include="Infrastructure\Constants.cs" />
-    <Compile Include="Infrastructure\DAL\Database.cs" />
-    <Compile Include="Infrastructure\Entities\Subject.cs" />
-    <Compile Include="Infrastructure\Entities\User.cs" />
-    <Compile Include="Infrastructure\Enums\UserRole.cs" />
-    <Compile Include="Infrastructure\Filters\ApiAuthorizationAtribute.cs" />
+    <Compile Include="Classes\StringCrypt.cs" />
+    <Compile Include="Classes\Constants.cs" />
+    <Compile Include="DAL\Database.cs" />
+    <Compile Include="Entities\Subject.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="Enums\UserRole.cs" />
+    <Compile Include="Filters\ApiAuthorizationAtribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Infrastructure\Inbound\UserInbound.cs" />
+    <Compile Include="Entities\Inbound\UserInbound.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

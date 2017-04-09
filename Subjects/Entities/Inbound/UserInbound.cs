@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace AuthenticationApplication.Infrastructure.Inbound
+namespace AuthenticationApplication.Entities.Inbound
 {
     public class UserInbound
     {

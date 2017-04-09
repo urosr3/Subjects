@@ -1,6 +1,6 @@
-﻿using AuthenticationApplication.Infrastructure.Classes;
-using AuthenticationApplication.Infrastructure.DAL;
-using AuthenticationApplication.Infrastructure.Inbound;
+﻿using AuthenticationApplication.Classes;
+using AuthenticationApplication.DAL;
+using AuthenticationApplication.Entities.Inbound;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;

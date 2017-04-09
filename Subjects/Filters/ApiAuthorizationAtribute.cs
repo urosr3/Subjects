@@ -1,7 +1,7 @@
 ﻿using AuthenticationApplication.Controllers;
-using AuthenticationApplication.Infrastructure.Classes;
-using AuthenticationApplication.Infrastructure.DAL;
-using AuthenticationApplication.Infrastructure.Enums;
+using AuthenticationApplication.Classes;
+using AuthenticationApplication.DAL;
+using AuthenticationApplication.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +12,7 @@ using System.Web;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 
-namespace AuthenticationApplication.Infrastructure.Filters
+namespace AuthenticationApplication.Filters
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
     public class ApiAuthorizationAttribute : AuthorizeAttribute

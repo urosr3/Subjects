@@ -1,10 +1,10 @@
-﻿using AuthenticationApplication.Infrastructure.Enums;
+﻿using AuthenticationApplication.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace AuthenticationApplication.Infrastructure.Entities
+namespace AuthenticationApplication.Entities
 {
     public class User
     {

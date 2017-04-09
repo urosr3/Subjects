@@ -1,6 +1,6 @@
-﻿using AuthenticationApplication.Infrastructure.DAL;
-using AuthenticationApplication.Infrastructure.Enums;
-using AuthenticationApplication.Infrastructure.Filters;
+﻿using AuthenticationApplication.DAL;
+using AuthenticationApplication.Enums;
+using AuthenticationApplication.Filters;
 using System;
 using System.Collections.Generic;
 using System.Linq;

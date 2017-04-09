@@ -1,4 +1,4 @@
-﻿using AuthenticationApplication.Infrastructure.Enums;
+﻿using AuthenticationApplication.Enums;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;

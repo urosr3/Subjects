@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Web;
 
-namespace AuthenticationApplication.Infrastructure.Classes
+namespace AuthenticationApplication.Classes
 {
     public static class StringCrypt
     {

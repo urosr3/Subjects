@@ -1,11 +1,11 @@
-﻿using AuthenticationApplication.Infrastructure.Entities;
-using AuthenticationApplication.Infrastructure.Enums;
+﻿using AuthenticationApplication.Entities;
+using AuthenticationApplication.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace AuthenticationApplication.Infrastructure.DAL
+namespace AuthenticationApplication.DAL
 {
     public class Database
     {

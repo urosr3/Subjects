@@ -49,6 +49,5 @@ D:\code\Subjects\Subjects\bin\EntityFramework.xml
 D:\code\Subjects\Subjects\bin\EntityFramework.SqlServer.xml
 D:\code\Subjects\Subjects\bin\Microsoft.AspNet.Identity.Core.xml
 D:\code\Subjects\Subjects\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\code\Subjects\Subjects\obj\Debug\Subjects.csprojResolveAssemblyReference.cache
 D:\code\Subjects\Subjects\obj\Debug\AuthenticationApplication.dll
 D:\code\Subjects\Subjects\obj\Debug\AuthenticationApplication.pdb
